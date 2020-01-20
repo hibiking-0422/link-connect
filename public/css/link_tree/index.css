@@ -1,0 +1,38 @@
+.link-card{
+    border: solid 2px gray;
+    border-radius: 10px;
+    max-width: 200px;
+    min-height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.link-title{
+    text-align: center;
+    padding: 5px;
+    border-bottom: dotted 2px gray;
+}
+
+.title-font{
+    color: #337079;
+    font-size: 15px;
+}
+
+.comment{
+    border-bottom: solid 2px gray;
+    min-height: 50px;
+}
+
+.comment-font{
+    padding: 5px;
+}
+
+.card-bottom{
+    text-align: right;
+    padding: 5px 10px;
+}
+
+.edit{
+    color: aquamarine;
+}

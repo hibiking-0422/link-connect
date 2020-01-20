@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+}
+
+table th,
+table td {
+  padding: 1em 10px 1em 1em;
+  border: 1px solid #bbb;
+  max-width: 300px;
+  overflow: auto;
+}
+
+table{
+    empty-cells: show;
+    margin-top: 50px;
+    margin-left: 200px;
+    max-width: 800px;
+    margin-bottom: 100px;
+}
+
+.new{
+    position: absolute;
+    left: 550px;
+    top: 110px;
+}
+
+.order-num{
+    width: 75px;
+}
